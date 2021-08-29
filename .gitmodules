@@ -1,0 +1,4 @@
+[submodule "ghs-raqeem/Ar-Rawahel-Al-Arabia"]
+	path = ghs-raqeem/Ar-Rawahel-Al-Arabia
+	url = git@github.com:ghs-raqeem/Ar-Rawahel-Al-Arabia.git
+	branch = master
